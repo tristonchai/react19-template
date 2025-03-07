@@ -14,6 +14,9 @@ A robust starter template for React v19 projects, pre-installed with essential p
 -   Pre-configured **Redux store and reducers** in `src/redux/`.
 -   Sample **API request** setup in `src/api/`.
 -   Custom **Header** and **Navigation** components in `src/components/`.
+-   **Code splitting** implemented in `App.jsx` for optimized route loading.
+-   **Proxy server** configured in `vite.config.js` to prevent CORS issues during development (customizable URL).
+-   **Esbuild** configured to drop `console` statements in production builds.
 
 ## Prerequisites
 
