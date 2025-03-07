@@ -1,0 +1,37 @@
+{
+  "hash": "df5c86c9",
+  "configHash": "dfd5aad1",
+  "lockfileHash": "a9a88fd3",
+  "browserHash": "2a249537",
+  "optimized": {
+    "motion/react": {
+      "src": "../../node_modules/motion/dist/es/motion/lib/react.mjs",
+      "file": "motion_react.js",
+      "fileHash": "c572ff2a",
+      "needsInterop": false
+    },
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "0395104f",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "a273b6d0",
+      "needsInterop": true
+    },
+    "react-router": {
+      "src": "../../node_modules/react-router/dist/development/index.mjs",
+      "file": "react-router.js",
+      "fileHash": "a1877891",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-AY6LENDD": {
+      "file": "chunk-AY6LENDD.js"
+    }
+  }
+}
