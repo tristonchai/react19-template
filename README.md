@@ -28,11 +28,15 @@ A robust starter template for React v19 projects, pre-installed with essential p
     cd react-v19-template
     ```
 2. Install node module
-    ```npm install
+
+    ```bash
+    npm install
 
     ```
+
 3. Run in local
 
-    ```npm run dev
+    ```bash
+    npm run dev
 
     ```
